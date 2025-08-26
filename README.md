@@ -4,9 +4,9 @@
 This project aims to analyze hospitality industry data (135,000+ rows) to uncover insights about customer behavior, booking trends, and revenue performance. The goal is to optimize decision-making for hotel operations, improve occupancy, and identify revenue opportunities.
 
 # Tools and Technologies
-Excel (Data Cleaning & Preprocessing)
-SQL (Data Exploration & Queries)
-Power BI (Dashboard & KPI Analysis)
+Excel (Data Cleaning & Preprocessing).
+SQL (Data Exploration & Queries).
+Power BI (Dashboard & KPI Analysis).
 Tableau (Interactive Visualization & Storytelling)
 
 # Excel Data Cleaning
