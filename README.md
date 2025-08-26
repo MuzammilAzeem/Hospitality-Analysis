@@ -28,10 +28,11 @@ Excel – Data cleaning, preprocessing, and exploratory analysis.
 
 SQL – Querying, aggregations, and transformations.
 
-![image alt](https://github.com/MuzammilAzeem/Hospitality-Analysis/blob/8aa13087aeed047412d46c0514da52ac7a92a863/Hospitality%20PowerBI%20scrnshot.png)
-
 Power BI – Advanced KPI dashboards.
 
 Tableau – Interactive visual storytelling.
 
 ⚡ This repository demonstrates how Excel, SQL, Power BI, and Tableau can be combined to transform raw hospitality data into actionable insights.
+
+![image alt](https://github.com/MuzammilAzeem/Hospitality-Analysis/blob/8aa13087aeed047412d46c0514da52ac7a92a863/Hospitality%20PowerBI%20scrnshot.png)
+
