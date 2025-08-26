@@ -35,7 +35,9 @@ Tableau – Interactive visual storytelling.
 ⚡ This repository demonstrates how Excel, SQL, Power BI, and Tableau can be combined to transform raw hospitality data into actionable insights.
 
 POWER BI Screenshot :-
+
 ![image alt](https://github.com/MuzammilAzeem/Hospitality-Analysis/blob/8aa13087aeed047412d46c0514da52ac7a92a863/Hospitality%20PowerBI%20scrnshot.png)
 
 Tableau Screenshot :-
+
 ![image alt](https://github.com/MuzammilAzeem/Hospitality-Analysis/blob/2907e63306cff44972612f05d69bf707de30e5c5/Hospitality%20Tableau%20scrnshot%20n.png)
